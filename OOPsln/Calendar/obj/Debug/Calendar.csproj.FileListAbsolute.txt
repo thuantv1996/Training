@@ -1,0 +1,9 @@
+D:\Training\OOPsln\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+D:\Training\OOPsln\Calendar\obj\Debug\Calendar.UICalendar.resources
+D:\Training\OOPsln\Calendar\obj\Debug\Calendar.UI.CalendarItem.resources
+D:\Training\OOPsln\Calendar\obj\Debug\Calendar.UI.MyCalendar.resources
+D:\Training\OOPsln\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+D:\Training\OOPsln\Calendar\bin\Debug\Calendar.exe
+D:\Training\OOPsln\Calendar\bin\Debug\Calendar.pdb
+D:\Training\OOPsln\Calendar\obj\Debug\Calendar.exe
+D:\Training\OOPsln\Calendar\obj\Debug\Calendar.pdb
